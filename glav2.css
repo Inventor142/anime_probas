@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+
+a{
+    text-decoration: none;
+    color: violet;
+}
+
+.menu{
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    display: grid;
+    padding: 35px;
+    width: 80%;
+    margin: auto;
+}
+
+.cont{
+    background-color: #2c0033;
+}
+
+.one{
+    color: red;
+}
+
+.bg{
+    background: url(design-an-anime-banner-for-you.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
